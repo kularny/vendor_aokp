@@ -1,3 +1,4 @@
+add_lunch_combo aokp_edison-userdebug
 add_lunch_combo aokp_hammerhead-userdebug
 add_lunch_combo aokp_mako-userdebug
 add_lunch_combo aokp_flo-userdebug
