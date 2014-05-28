@@ -34,4 +34,4 @@ PRODUCT_BUILD_PROP_OVERRIDES += \
    PRODUCT_DEFAULT_REGION=US \
 
 PRODUCT_COPY_FILES +=  \
-    vendor/aokp/prebuilt/bootanimation/bootanimation_540_960.zip:system/media/bootanimation-alt.zip
+    vendor/aokp/prebuilt/bootanimation/bootanimation_540.zip:system/media/bootanimation.zip
